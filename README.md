@@ -38,8 +38,8 @@ GitHub & Version Control • Agile Methodology • Microsoft Office (Word, Power
 - Used sync slicers and page navigation buttons for a smooth user experience  
 - Resolved a key data quality issue (unit price vs total price mismatch) to ensure accurate analysis  
 
-> 🔗 _Repo link will be added here once uploaded:_  
-> `[[Turkish Retail Dashboard Repo Link]]`
+> 🔗 _Repo link:_  
+> `[ https://github.com/Kabirs16/turkish-retail-customer-segmentation ]`
 
 ---
 
