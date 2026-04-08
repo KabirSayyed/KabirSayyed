@@ -39,7 +39,7 @@ GitHub & Version Control • Agile Methodology • Microsoft Office (Word, Power
 - Resolved a key data quality issue (unit price vs total price mismatch) to ensure accurate analysis  
 
 > 🔗 _Repo link:_  
-> `[ https://github.com/Kabirs16/turkish-retail-customer-segmentation ]`
+> https://github.com/Kabirs16/turkish-retail-customer-segmentation
 
 ---
 
