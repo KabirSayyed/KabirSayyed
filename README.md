@@ -47,7 +47,6 @@ GitHub & Version Control • Agile Methodology • Microsoft Office (Word, Power
 
 **B.Tech – Mechanical Engineering** (2020–2024)  
 Anjuman College of Engineering and Technology, RTM Nagpur University  
-CGPA: 7.39  
 
 ---
 
@@ -62,8 +61,8 @@ CGPA: 7.39
 
 ## 📚 Research & Publications
 
-- **Design and Fabrication of Setup for Harvesting Water from Atmospheric Air Using the Concept of Peltier Effect** – IRJMETS, Vol. 06, Issue 05, May 2024  
-- **Design and Fabrication of Setup for Harvesting Water from Atmospheric Air – A Review** – IJSREM, Vol. 08, Issue 05, May 2024  
+- Research Paper : **Design and Fabrication of Setup for Harvesting Water from Atmospheric Air Using the Concept of Peltier Effect** – IRJMETS, Vol. 06, Issue 05, May 2024  
+- Review Paper : **Design and Fabrication of Setup for Harvesting Water from Atmospheric Air – A Review** – IJSREM, Vol. 08, Issue 05, May 2024  
 
 ---
 
@@ -72,10 +71,3 @@ CGPA: 7.39
 - 💼 LinkedIn: [linkedin.com/in/kabir-sayyed](https://www.linkedin.com/in/kabir-sayyed)  
 - 🧑‍💻 GitHub: [github.com/Kabirs16](https://github.com/Kabirs16)  
 - 📧 Email: kabirsayyed16@gmail.com  
-
-<!--
-📌 TODO (Next Steps)
-- Upload Turkish Retail dashboard repo and link it above
-- Add new Python/SQL/Excel projects as you build them
-- Create a GitHub Pages portfolio and link it here
--->
