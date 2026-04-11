@@ -39,7 +39,7 @@ GitHub & Version Control • Agile Methodology • Microsoft Office (Word, Power
 - Resolved a key data quality issue (unit price vs total price mismatch) to ensure accurate analysis  
 
 > 🔗 _Repo link:_  
-> https://github.com/Kabirs16/turkish-retail-customer-segmentation
+> https://github.com/KabirSayyed/turkish-retail-customer-segmentation
 
 ---
 
@@ -69,5 +69,5 @@ Anjuman College of Engineering and Technology, RTM Nagpur University
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: [linkedin.com/in/kabir-sayyed](https://www.linkedin.com/in/kabir-sayyed)  
-- 🧑‍💻 GitHub: [github.com/Kabirs16](https://github.com/Kabirs16)  
+- 🧑‍💻 GitHub: [github.com/Kabirs16](https://github.com/KabirSayyed)  
 - 📧 Email: kabirsayyed16@gmail.com  
