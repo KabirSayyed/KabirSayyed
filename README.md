@@ -83,4 +83,4 @@ Anjuman College of Engineering and Technology, RTM Nagpur University
 - 💼 LinkedIn: [linkedin.com/in/kabir-sayyed](https://www.linkedin.com/in/kabir-sayyed)  
 - 🧑‍💻 GitHub: [github.com/Kabirs16](https://github.com/KabirSayyed)  
 - 📧 Email: kabirsayyed16@gmail.com
-- 🌐 Website: kabirsayyed.github.io
+- 🌐 Website: [kabirsayyed.github.io](https://kabirsayyed.github.io)
